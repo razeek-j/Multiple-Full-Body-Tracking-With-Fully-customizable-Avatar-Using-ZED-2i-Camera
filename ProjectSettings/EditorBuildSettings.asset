@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ReadyPlayerMeUI.unity
+    guid: d8c7a88d928b26846b2db8c9fa4281ff
+  - enabled: 0
+    path: Assets/Scenes/BodyTracking.unity
+    guid: e5181b0529dafd2468a7cf079091b550
+  m_configObjects: {}
