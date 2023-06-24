@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ReadyPlayerMeUI.unity
     guid: d8c7a88d928b26846b2db8c9fa4281ff
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/BodyTracking.unity
     guid: e5181b0529dafd2468a7cf079091b550
   m_configObjects: {}
