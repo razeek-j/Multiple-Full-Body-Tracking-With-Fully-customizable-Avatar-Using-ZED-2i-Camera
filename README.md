@@ -5,6 +5,9 @@ This is a project which can track multiple full body tracing of ready player me 
 # Introduction
 This project aims to provide a comprehensive solution for multiple full-body tracking using the Ready Player Me Avatar and ZED 2i Camera. With the increasing popularity of virtual reality (VR) and augmented reality (AR) applications, creating fully customizable and realistic avatars has become crucial. By leveraging the power of the ZED 2i Camera, this project allows simultaneous tracking of multiple users' full-body movements, enhancing the immersive experience in various virtual environments.
 
+watch the youtube video for more understanding
+
+[![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/yMXFCGtABCQ/mq3.webp?sqp=CKTp-aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTig4MA8=&rs=AOn4CLD3A3otD1TXiqTGwnKdKg3hxY9IYA)](https://youtu.be/yMXFCGtABCQ)
 # Key Features
 Multiple Full Body Tracking: The project enables the accurate tracking of multiple users' full-body movements in real-time, enhancing multi-user interactions in virtual environments.
 
