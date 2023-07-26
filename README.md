@@ -7,7 +7,7 @@ This project aims to provide a comprehensive solution for multiple full-body tra
 
 watch the youtube video for more understanding
 
-[![Everything Is AWESOME](https://i9.ytimg.com/vi_webp/yMXFCGtABCQ/mq3.webp?sqp=CKTp-aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTig4MA8=&rs=AOn4CLD3A3otD1TXiqTGwnKdKg3hxY9IYA)](https://youtu.be/yMXFCGtABCQ)
+[![Youtube Video Link](https://i9.ytimg.com/vi_webp/yMXFCGtABCQ/mq3.webp?sqp=CKTp-aUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgTig4MA8=&rs=AOn4CLD3A3otD1TXiqTGwnKdKg3hxY9IYA)](https://youtu.be/yMXFCGtABCQ)
 # Key Features
 Multiple Full Body Tracking: The project enables the accurate tracking of multiple users' full-body movements in real-time, enhancing multi-user interactions in virtual environments.
 
