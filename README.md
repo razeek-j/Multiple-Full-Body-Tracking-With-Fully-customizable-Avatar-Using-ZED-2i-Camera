@@ -31,6 +31,10 @@ To get started with the project,
 2) open in unity hub
 3) install ZED2i SDK from the official website and install
 
+# Issues
+
+The ready player me avatar creator integration in web browser is a paid platform named as vulkan.
+So inorder to work with that follow the tutorial of the 'ready player me' the link is https://docs.readyplayer.me/ready-player-me/integration-guides/unity/avatar-creator/avatar-creator-for-vr-and-pc 
 
 # Contributing
 We welcome contributions from the community! If you'd like to contribute to the project, please contact for guidelines on how to get involved.
